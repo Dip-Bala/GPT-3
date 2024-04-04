@@ -117,11 +117,18 @@
     .gpt3-whatgpt3-container .gpt3-feature{
         margin-left: 0;
     }
+    .gpt3-whatgpt3-heading h1{
+      font-size: 24px;
+      line-height: 30px;
+  }
 
 }
 @media screen and (max-width: 400px) {
     .gpt3-whatgpt3 {
         min-height: 100%;
         margin:1rem 0;
+        padding:1rem;
     }
+    
+
 }
