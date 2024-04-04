@@ -12,7 +12,7 @@ const App = () => {
       </div>
       <Brand />
       <WhatGPT3 />
-      <Feature />
+      {/* <Feature /> */}
       <Possibility />
       <CTA/>
       <Blog />
