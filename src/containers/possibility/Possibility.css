@@ -57,6 +57,7 @@ font-weight: 500;
     .gpt3-possibility-image{
         margin: 0;
     }
+    
 }
 @media screen and (max-width: 600px){
     .gpt3-possibility{
