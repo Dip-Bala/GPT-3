@@ -1,11 +1,9 @@
 .gpt3-appFeature {
   display: flex;
   flex-direction: row;
-  /* padding: 2rem; */
-  margin: 7rem;
+  margin: 7rem 7rem 0 7rem;
   max-width: 100%;
   justify-content: space-between;
-  /* align-items: center; */
 }
 .gpt3-appFeature-heading {
    flex: 1;
