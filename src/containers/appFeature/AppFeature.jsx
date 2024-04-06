@@ -24,7 +24,7 @@ const featuresData = [
 
 const AppFeature = () => {
   return (
-    <div className = "gpt3-appFeature">
+    <div className = "gpt3-appFeature" id = "feature">
         <div className = "gpt3-appFeature-heading">
            <h1 className = "gradient-text">The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.</h1> 
            <p>Request Early Access to Get Started</p>

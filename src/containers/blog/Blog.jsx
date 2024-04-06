@@ -4,7 +4,7 @@ import Article from '../../components/article/Article';
 
 const Blog = () => {
   return (
-    <div  className="gpt3-blog section-margin">
+    <div  className="gpt3-blog section-margin" id = "blog">
       <div className="gpt3-blog-heading">
         <h1 className = "gradient-text">A lot is happening, <br></br>
         We are blogging about it.</h1>

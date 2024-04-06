@@ -2,9 +2,9 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 3rem 6rem;
+  padding: 3rem 6rem 0 4rem;
   font-family: var(--font-family);
-  margin-left: 2.2rem;
+  margin-left: 3rem;
 }
 .gpt3-navbar-links {
   flex: 1;
